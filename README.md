@@ -5,4 +5,5 @@ A collection of handy code snippets in Python, Java, and JavaScript. Feel free t
 ## 🐍 Python Snippets- [Python code](hello.py)
 ## ☕ Java Snippets- [java code](hello.java)
 ## 🧠 JavaScript Snippets- [js code](hello.js)
+## 🧠 divya -[python code].(div.py)
 
